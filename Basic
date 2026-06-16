@@ -1,0 +1,4 @@
+a = 'avisek'
+b = 'subudhiray'
+name = a +" "+ b
+print(name)
