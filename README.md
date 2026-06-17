@@ -1,2 +1,2 @@
 # Python_Practice
-Pyhton Code
+I will add my python daily practice code in this repo.
