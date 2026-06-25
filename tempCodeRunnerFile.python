@@ -1,0 +1,7 @@
+a = ['Avisek','Binayak','Deku','Amit','Rintin']
+b = {}
+
+for i in range(len(a)):
+    b[i] = a[i]
+    
+print(b)
