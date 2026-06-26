@@ -1,7 +1,9 @@
-a = ['Avisek','Binayak','Deku','Amit','Rintin']
-b = {}
+a = [10,20,10,40,30,55,70,60,40]
+b = []
 
-for i in range(len(a)):
-    b[i] = a[i]
-    
+
+for i in a:
+    if a.count(i) == 2 and i not in b:
+        b.append(i)
+        
 print(b)
